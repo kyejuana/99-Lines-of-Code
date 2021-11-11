@@ -1,14 +1,15 @@
-.purple-bg {
+body {
     background: lavender;
+    text-align: center;
 }
 
-.h1 {
-    color: purple;
+h1 {
+    color: teal;
   
 }
-.class {
+class {
     background-color: purple;
 }
-.h3 {
+h3 {
     text-transform: uppercase;
 }
